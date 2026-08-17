@@ -1,142 +1,340 @@
-# Galvin Alfito Dinova
-Fullstack Developer | Mobile & Web Specialist | PPLG Student
+<div align="center">
+
+# 👋 Hi, I'm Galvin Alfito Dinova
+
+### Fullstack Developer · Mobile & Web Specialist · PPLG Student
+
+<a href="https://galvinalfitov2.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://github.com/Galvinal-227">
+  <img src="https://img.shields.io/badge/GitHub-Galvinal--227-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Web+%26+Mobile+Developer;React+%7C+Flutter+%7C+Node.js;Building+things+that+matter.;Making+ideas+come+to+life." alt="Typing SVG" />
+
+</div>
 
 ---
 
-## Tentang Saya
+## 🧑‍💻 About Me
 
-Halo! Saya Galvin Alfito Dinova, seorang Fullstack Developer yang memiliki ketertarikan mendalam pada pengembangan aplikasi lintas platform. Saat ini saya adalah siswa di **SMKN 2 Nganjuk**, jurusan **Pengembangan Perangkat Lunak dan Gim (PPLG)**. Di sinilah saya belajar secara formal tentang dunia pemrograman, pengembangan software, dan game development.
+```js
+const galvin = {
+  name: "Galvin Alfito Dinova",
+  role: "Fullstack Developer",
+  education: "SMKN 2 Nganjuk — PPLG",
+  focus: [
+    "Web Development",
+    "Mobile Development",
+    "Interactive UI",
+    "3D Web Experience"
+  ],
+  currentlyLearning: [
+    "Advanced React",
+    "Backend Architecture",
+    "Three.js",
+    "Flutter"
+  ],
+  philosophy: "Build things that matter, and make them beautiful."
+};
+```
 
-Meskipun masih berstatus pelajar, saya sudah aktif mengerjakan berbagai proyek freelance dan personal project untuk mengasah kemampuan. Saya selalu bersemangat mempelajari hal baru, bereksperimen dengan animasi kompleks, 3D, hingga optimasi performa aplikasi. Bagi saya, kode adalah alat untuk mewujudkan ide menjadi produk nyata yang berdampak.
+I'm a student developer from Indonesia who enjoys turning ideas into interactive digital experiences.
 
-Perjalanan saya di dunia pemrograman dimulai dari ketertarikan pada visual dan interaksi. Hal ini membawa saya mendalami berbagai tools dan framework modern untuk menciptakan antarmuka yang tidak hanya fungsional, tetapi juga estetis dan responsif. Dari sisi backend, saya terbiasa membangun arsitektur yang scalable, RESTful API, serta integrasi dengan berbagai layanan cloud.
+I started with curiosity about how websites work and gradually moved into modern frontend development, backend systems, mobile applications, animation, and 3D experiences.
+
+I enjoy experimenting with new technologies, building personal projects, and constantly improving my development workflow.
+
+> **Code is not just about making things work — it's about turning ideas into something people can experience.**
 
 ---
 
-## Pendidikan
+## ⚡ Tech Stack
+
+### 🌐 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,threejs" />
+</p>
+
+### 📱 Mobile
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,reactnative" />
+</p>
+
+### ⚙️ Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,mongodb,postgres,mysql" />
+</p>
+
+### 🎮 Game Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=unity,cs" />
+</p>
+
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify" />
+</p>
+
+---
+
+## 🎨 Frontend & Animation
+
+I particularly enjoy building interfaces that feel alive.
+
+```text
+React
+ ├── Interactive UI
+ ├── Component Architecture
+ └── Performance Optimization
+
+GSAP
+ ├── Scroll Animations
+ ├── Timeline Animations
+ └── Complex Motion
+
+Three.js
+ ├── 3D Objects
+ ├── Interactive Scenes
+ └── Immersive Experiences
+
+Lenis
+ └── Smooth Scrolling
+```
+
+---
+
+## 🚀 Featured Projects
+
+### 🌌 Interactive 3D Portfolio
+
+An interactive personal portfolio focused on immersive web experiences.
+
+**Stack:** React · Three.js · GSAP · Tailwind CSS · Vite
+
+**Highlights**
+
+* 3D interactive elements
+* Scroll-based storytelling
+* Smooth animations
+* Responsive layout
+* Modern UI
+
+---
+
+### 🛒 E-Commerce Mobile App
+
+A cross-platform shopping application built around a modern mobile experience.
+
+**Stack:** Flutter · Dart · Firebase
+
+**Highlights**
+
+* Authentication
+* Product management
+* Shopping cart
+* Transaction history
+* Firebase integration
+
+---
+
+### 📊 Admin Dashboard
+
+A modern dashboard for managing data and visualizing statistics.
+
+**Stack:** React · TypeScript · Tailwind CSS · Node.js · Express · PostgreSQL
+
+**Highlights**
+
+* JWT authentication
+* Dynamic tables
+* Data filtering
+* Statistics visualization
+* CSV export
+
+---
+
+### 💬 Social Media Web App
+
+A micro-blogging platform designed around real-time interaction.
+
+**Stack:** React · Node.js · Express · MongoDB · Socket.io
+
+**Highlights**
+
+* Posts
+* Likes
+* Comments
+* Follow system
+* Real-time notifications
+* Image uploads
+
+---
+
+### 🎮 2D Platformer
+
+A simple 2D platformer created as a school project.
+
+**Stack:** Unity · C#
+
+**Highlights**
+
+* Player movement
+* Jump mechanics
+* Collectibles
+* Score system
+* Basic game mechanics
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Galvinal-227&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Galvinal-227&layout=compact&hide_border=true&langs_count=8" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Galvinal-227&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Galvinal-227/Galvinal-227/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Galvinal-227&hide_border=true&area=true" alt="GitHub Activity Graph" />
+
+</div>
+
+---
+
+## 🎓 Education
 
 ### SMKN 2 Nganjuk
-*2023 - Sekarang*
-**Jurusan**: Pengembangan Perangkat Lunak dan Gim (PPLG)
-- Mempelajari dasar-dasar pemrograman, algoritma, dan struktur data.
-- Mendalami pengembangan web, mobile, dan game.
-- Aktif dalam proyek-proyek sekolah dan kompetisi.
+
+**Pengembangan Perangkat Lunak dan Gim (PPLG)**
+
+`2023 — Present`
+
+Currently learning:
+
+* Programming fundamentals
+* Algorithms & data structures
+* Web development
+* Mobile development
+* Game development
+* Software engineering
 
 ---
 
-## Keahlian Teknis
+## 🏆 Certifications & Activities
 
-### Web Frontend
-- **React** - Pengembangan SPA dengan hooks, context, dan optimasi render.
-- **TypeScript** - Kode yang type-safe, readable, dan maintainable.
-- **Vite** - Build tool super cepat untuk development modern.
-- **Tailwind CSS** - Styling utility-first untuk desain responsif dan konsisten.
-- **Framer Motion** - Animasi halus dan interaktif untuk React.
-- **GSAP** - Animasi profesional dengan kontrol penuh dan performa tinggi.
-- **Lenis** - Smooth scrolling yang natural dan responsif.
-- **Three.js** - Visualisasi 3D dan pengalaman imersif di browser.
-
-### Mobile Development
-- **Flutter** - Pengembangan aplikasi iOS dan Android dengan satu codebase menggunakan Dart.
-- **React Native** - Aplikasi mobile cross-platform dengan pendekatan React dan JavaScript.
-
-### Backend & Database
-- **Node.js** - Runtime JavaScript untuk backend yang cepat dan scalable.
-- **Express** - Framework minimalis untuk membangun REST API.
-- **Firebase** - Authentication, Firestore, Cloud Functions, dan hosting.
-- **Supabase** - Alternatif open-source Firebase dengan Postgres.
-- **PostgreSQL / MySQL** - Database relasional.
-- **MongoDB** - Database NoSQL untuk fleksibilitas data.
-
-### Game Development
-- **Unity** (dengan C#) - Pengembangan game 2D dan 3D.
-- **Construct 3** - Game development visual untuk pemula.
-
-### DevOps & Tools
-- **Git & GitHub** - Version control dan kolaborasi tim.
-- **Vercel / Netlify** - Hosting frontend dengan integrasi Git.
-- **Figma** - Desain UI/UX dan prototyping.
+* Dicoding — Belajar Dasar Pemrograman JavaScript
+* Dicoding — Belajar Membuat Aplikasi Flutter untuk Pemula
+* Dicoding — Belajar Fundamental Aplikasi Web dengan React
+* Google Developer Group — Events & Workshops
+* Lomba Kompetensi Siswa (LKS) — Web Technology
+* School software development projects
 
 ---
 
-## Portofolio Proyek
+## 📚 Currently Learning
 
-### 1. Portfolio Interaktif 3D
-**Deskripsi**: Website portofolio pribadi dengan elemen 3D interaktif menggunakan Three.js dan animasi halus dengan GSAP.
-**Teknologi**: React, Three.js, GSAP, Tailwind, Vite.
-**Fitur**: Animasi scroll, model 3D, dark mode, responsif.
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 
-### 2. E-Commerce Mobile App
-**Deskripsi**: Aplikasi belanja mobile dengan fitur autentikasi, keranjang, pembayaran, dan riwayat transaksi.
-**Teknologi**: Flutter, Firebase (Auth, Firestore, Storage).
-**Fitur**: Login/Register, CRUD produk, real-time cart, notification.
+<br />
 
-### 3. Admin Dashboard
-**Deskripsi**: Dashboard manajemen data dengan grafik interaktif dan tabel dinamis.
-**Teknologi**: React, TypeScript, Tailwind, Chart.js, Node.js, Express, PostgreSQL.
-**Fitur**: Autentikasi JWT, filter data, export CSV, visualisasi statistik.
-
-### 4. Social Media Web App
-**Deskripsi**: Platform micro-blogging dengan fitur posting, like, komentar, dan follow user.
-**Teknologi**: React, Node.js, Express, MongoDB, Socket.io.
-**Fitur**: Real-time notification, pesan langsung, upload gambar.
-
-### 5. Game Sederhana 2D (Proyek Sekolah)
-**Deskripsi**: Game platformer sederhana sebagai tugas akhir mata pelajaran.
-**Teknologi**: Unity, C#.
-**Fitur**: Player movement, jumping, collectibles, score system.
+```text
+Learning → Building → Breaking → Fixing → Improving
+```
 
 ---
 
-## Proyek Sekolah & Organisasi
+## 💡 My Development Philosophy
 
-- **Ketua Kelas** di jurusan PPLG - Bertanggung jawab mengkoordinasi kegiatan kelas.
-- **Anggota Tim Pengembang** untuk proyek akhir semester - Membangun aplikasi berbasis web untuk kebutuhan sekolah.
-- **Peserta Aktif** dalam kegiatan ekstrakurikuler robotika dan coding club.
+<div align="center">
 
----
+### "Build things that matter, and make them beautiful."
 
-## Sertifikat & Penghargaan
+</div>
 
-- **Dicoding**: Belajar Dasar Pemrograman JavaScript
-- **Dicoding**: Belajar Membuat Aplikasi Flutter untuk Pemula
-- **Dicoding**: Belajar Fundamental Aplikasi Web dengan React
-- **Google Developer Group**: Peserta aktif di event dan workshop
-- **Hackathon 2023**: Juara 2 kategori Mobile App (tingkat kabupaten)
-- **Lomba Kompetensi Siswa (LKS)** 2024 - Peserta Bidang Web Technology
+I believe a developer should not only write code, but also understand the problem behind it.
 
----
+My principles:
 
-## Statistik GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=galvinalfito&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=galvinalfito&layout=compact&theme=radical)
+* 🧠 Keep learning
+* 🧹 Write maintainable code
+* 🎨 Care about user experience
+* ⚡ Prioritize performance
+* 🔧 Build practical solutions
+* 🤝 Collaborate and communicate
+* 🚀 Turn ideas into real products
 
 ---
 
-## Kontak
+## 🌐 Connect With Me
 
-- **Portfolio**: [galvinalfito.vercel.app](https://galvinalfitov2.vercel.app)
-- **LinkedIn**: [linkedin.com/in/galvinalfito](https://linkedin.com/in/galvinalfito)
-- **GitHub**: [github.com/galvinalfito](https://github.com/Galvinal-227)
-- **Email**: galvin.alfito@email.com
-- **Instagram**: [@galvinalfito](https://instagram.com/g.alfitodinova)
+<div align="center">
+
+<a href="https://galvinalfitov2.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://github.com/Galvinal-227">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/galvinalfito">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/g.alfitodinova">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-## Filosofi Kerja
+<div align="center">
 
-Saya percaya bahwa seorang developer tidak hanya menulis kode, tetapi juga memecahkan masalah dan menciptakan nilai. Meskipun masih pelajar, saya selalu berusaha untuk:
-- Menulis kode yang bersih dan mudah dipahami.
-- Memprioritaskan pengalaman pengguna.
-- Terus belajar dan beradaptasi dengan teknologi baru.
-- Berkolaborasi secara efektif dalam tim.
-- Menyeimbangkan pendidikan formal dengan pengembangan skill mandiri.
+### Thanks for visiting my profile!
 
----
+<img src="https://komarev.com/ghpvc/?username=Galvinal-227&style=flat-square&color=blue" alt="Profile Views" />
 
-*"Build things that matter, and make them beautiful."*
+<br />
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer" />
 
-**Terima kasih sudah mampir! Jangan ragu untuk terhubung atau berkolaborasi. Saya selalu terbuka untuk belajar hal baru dan mengerjakan proyek menarik!**
+</div>
