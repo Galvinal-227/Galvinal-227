@@ -1,103 +1,187 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E5E5E5&height=120&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=111111&height=120&section=header" width="100%" />
 
-# 👋 Hi, I'm Galvin Alfito Dinova
-**Fullstack Developer · UI/UX Enthusiast · Creative Coder**
+# Hi, I'm Galvin Alfito Dinova
+
+### Full-Stack Developer · Creative Coder · UI/UX Enthusiast
+
+I build web apps, mobile apps, developer tools, and digital experiences.
 
 <a href="https://galvinalfito.my.id">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_Website-FAFAFA?style=for-the-badge&logo=vercel&logoColor=black&labelColor=FAFAFA&color=E5E5E5" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<a href="www.linkedin.com/in/galvin-alfito-506494390">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-FAFAFA?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=FAFAFA&color=E5E5E5" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/galvin-alfito-506494390">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="galvinalfito@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-FAFAFA?style=for-the-badge&logo=gmail&logoColor=black&labelColor=FAFAFA&color=E5E5E5" alt="Email" />
+<a href="mailto:galvinalfito@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br />
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Building+digital+experiences+that+matter.;React+%7C+Flutter+%7C+Node.js;Crafting+immersive+3D+Web+Interfaces.;Turning+ideas+into+scalable+products." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=3000&pause=1000&color=111111&center=true&vCenter=true&width=700&lines=Building+things+that+people+can+experience.;Web+%7C+Mobile+%7C+Developer+Tools;React+%7C+Flutter+%7C+Node.js+%7C+Three.js;Turning+ideas+into+real+products." />
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## About
 
-I am a student developer from Indonesia with a strong passion for turning complex problems into elegant, interactive digital experiences. Whether it's crafting an immersive 3D web scene or building a robust backend architecture, I focus on the intersection of design and engineering. 
+I'm a software development student from Indonesia who enjoys building things from scratch.
 
-> *"Code is not just about making things work — it's about turning ideas into something people can experience."*
+My main interests are **full-stack development, interactive interfaces, mobile applications, and developer tools**.
 
-* 🎓 **Education:** Software Engineering (PPLG) Student at SMKN 2 Nganjuk.
-* 🎯 **Current Focus:** Advanced React, Three.js, Backend Architecture, and Flutter.
-* 💡 **Philosophy:** Write maintainable code, prioritize user experience, and never stop learning.
+I care about more than just making software work. I like building products that feel polished, useful, and enjoyable to use.
+
+> **Projects speak louder than posts.**
+
+* Currently building web and mobile products with React and Flutter.
+* Exploring Three.js, GSAP, backend architecture, and developer tooling.
+* Interested in creating my own tools instead of always depending on existing solutions.
 
 ---
 
-## ⚡ Tech Arsenal
+## Tech Stack
 
 <div align="center">
 
-| Area | Technologies |
-| :--- | :--- |
-| **Frontend & 3D** | <img src="https://skillicons.dev/icons?i=ts,react,vite,tailwind,threejs&theme=light" height="30" /> |
-| **Mobile** | <img src="https://skillicons.dev/icons?i=flutter,dart&theme=light" height="30" /> |
-| **Backend & DB** | <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres,mongodb&theme=light" height="30" /> |
-| **Game & Tools** | <img src="https://skillicons.dev/icons?i=unity,cs,git,figma&theme=light" height="30" /> |
+### Frontend
 
-*Animation focus: GSAP, Lenis Smooth Scroll, Three.js Interactive Scenes*
-</div>
+<img src="https://skillicons.dev/icons?i=react,vite,js,ts,html,css,tailwind&theme=light" />
 
----
+### Mobile
 
-## 🚀 Featured Projects
+<img src="https://skillicons.dev/icons?i=flutter,dart&theme=light" />
 
-| 🌌 Project | 🛠️ Tech Stack | 📌 Overview |
-| :--- | :--- | :--- |
-| **[Interactive 3D Portfolio](#)** | React, Three.js, GSAP | An immersive personal portfolio featuring scroll-based storytelling and 3D interactive elements. |
-| **[E-Commerce Mobile App](#)** | Flutter, Dart, Firebase | Cross-platform shopping application with seamless authentication, cart management, and modern UI. |
-| **[Admin Dashboard System](#)** | React, Node.js, PostgreSQL | A scalable dashboard for dynamic data visualization, JWT auth, and complex filtering. |
-| **[Social Media Web App](#)** | React, Express, MongoDB | Micro-blogging platform focused on real-time interaction using Socket.io (likes, comments, notifications). |
+### Backend & Database
 
----
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,supabase&theme=light" />
 
-## 📈 Activity & Analytics
+### Creative & Developer Tools
 
-<div align="center">
-
-<!-- Animated Line Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Galvinal-227&bg_color=FAFAFA&color=111111&line=333333&point=111111&area=true&hide_border=true" alt="Activity Graph" width="800" />
-
-<br/>
-
-<!-- Stats & Animated Streak -->
-<img src="https://github-readme-stats.vercel.app/api?username=Galvinal-227&show_icons=true&hide_border=false&border_color=E5E5E5&bg_color=FAFAFA&title_color=000000&text_color=333333&icon_color=000000&rank_icon=github&include_all_commits=true&count_private=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Galvinal-227&theme=default&background=FAFAFA&border=E5E5E5&ring=111111&fire=111111&currStreakNum=111111&sideNums=333333&sideLabels=666666&dates=666666" height="165" />
-
-<br/>
-
-<!-- Animated Contribution Snake -->
-<img src="https://raw.githubusercontent.com/Galvinal-227/Galvinal-227/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="800" />
+<img src="https://skillicons.dev/icons?i=threejs,gsap,git,github,figma,unity,cs&theme=light" />
 
 </div>
 
 ---
 
-## 🏆 Certifications & Achievements
+## What I Build
 
-* **Dicoding:** Fundamental Web Applications with React | Flutter Basics | JavaScript Fundamentals
-* **Competitions:** Lomba Kompetensi Siswa (LKS) — Web Technology
-* **Community:** Active participant in Google Developer Group (GDG) Events & Workshops
+```text
+Web Applications
+├── Interactive websites
+├── SaaS interfaces
+├── E-commerce
+└── Admin dashboards
 
-<br/>
+Mobile Applications
+├── Flutter
+├── Android
+└── Cross-platform products
+
+Developer Tools
+├── CLI tools
+├── Libraries
+├── Framework experiments
+└── Development utilities
+
+Creative Technology
+├── Three.js
+├── Web animations
+├── Interactive experiences
+└── Experimental interfaces
+```
+
+---
+
+## Selected Projects
+
+| Project        | Description                                                                      | Stack                   |
+| :------------- | :------------------------------------------------------------------------------- | :---------------------- |
+| **GWD Studio** | Digital studio for building websites and software products.                      | React · Vite · GSAP     |
+| **GWD CLI**    | Developer tooling for running and previewing Flutter projects.                   | Node.js · Flutter · ADB |
+| **Mishbah**    | Modern Quran application for web and Android.                                    | React · Tauri · Android |
+| **GWD Motion** | Animation library combining smooth scrolling and interactive motion utilities.   | JavaScript · GSAP       |
+| **GWDView**    | Local development preview system for viewing projects from another device.       | React · Tauri           |
+| **YouAndMe**   | Interactive personal web experience built around a custom relationship timeline. | React · Puter.js        |
+
+---
+
+## Currently Exploring
+
+```text
+React
+Three.js
+GSAP
+Flutter
+Tauri
+Node.js
+Web Animation
+Developer Tooling
+Android Development
+Backend Architecture
+```
+
+---
+
+## GitHub Activity
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Galvinal-227&style=flat-square&color=E5E5E5&labelColor=FAFAFA&label=PROFILE+VIEWS" alt="Profile Views" />
 
-<br/>
-<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Galvinal-227&bg_color=ffffff&color=111111&line=111111&point=111111&area=true&hide_border=true" width="95%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E5E5E5&height=120&section=footer" width="100%" />
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Galvinal-227&show_icons=true&hide_border=true&bg_color=ffffff&title_color=111111&text_color=333333&icon_color=111111&rank_icon=github&include_all_commits=true&count_private=true" height="165" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Galvinal-227&theme=default&background=ffffff&border=ffffff&ring=111111&fire=111111&currStreakNum=111111&sideNums=333333&sideLabels=666666&dates=666666" height="165" />
+
+<br /><br />
+
+<img src="https://raw.githubusercontent.com/Galvinal-227/Galvinal-227/output/github-contribution-grid-snake.svg" width="95%" />
+
+</div>
+
+---
+
+## Experience & Learning
+
+* **Software Development** — SMKN 2 Nganjuk, PPLG
+* **Web Technology** — LKS / competitive web development
+* **React & JavaScript** — Modern frontend development
+* **Flutter** — Cross-platform application development
+* **Independent Projects** — Building products, tools, and experiments
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+If you're interested in technology, software, or building something together, feel free to reach out.
+
+<br />
+
+<a href="https://galvinalfito.my.id">
+  <img src="https://img.shields.io/badge/galvinalfito.my.id-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<a href="https://github.com/Galvinal-227">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<br />
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Galvinal-227&style=flat-square&color=111111&labelColor=ffffff&label=PROFILE+VIEWS" />
+
+<br /><br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=111111&height=100&section=footer" width="100%" />
+
 </div>
