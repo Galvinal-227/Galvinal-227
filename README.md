@@ -1,27 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=111111&height=120&section=header" width="100%" />
+# Galvin Alfito Dinova
 
-# Hi, I'm Galvin Alfito Dinova
+**Full-Stack Developer · Creative Coder · Developer Tools Builder**
 
-### Full-Stack Developer · Creative Coder · Developer Tools Builder
-
-I build web apps, mobile applications, developer tools, and interactive digital experiences.
+Building web experiences, developer tools, and software that feels useful.
 
 <a href="https://galvinalfito.my.id">
-  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/galvin-alfito-506494390">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:galvinalfito@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-
-<br />
-<br />
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=3000&pause=1000&color=111111&center=true&vCenter=true&width=750&lines=Building+things+that+people+can+experience.;Web+%7C+Mobile+%7C+Developer+Tools;React+%7C+Flutter+%7C+Node.js+%7C+Tauri;Turning+ideas+into+real+products." />
 
 </div>
 
@@ -29,220 +22,245 @@ I build web apps, mobile applications, developer tools, and interactive digital 
 
 ## About Me
 
-I'm a software development student from Indonesia who enjoys building things from scratch.
+I'm **Galvin Alfito**, a developer from Indonesia focused on building modern web applications, developer tools, and experimental software.
 
-My work sits around **web development, mobile applications, backend systems, interactive interfaces, and developer tooling**.
+- Student at **SMKN 2 Nganjuk · PPLG**
+- Interested in **Full-Stack Development**
+- Building my own developer ecosystem through **GWD**
+- Exploring web, mobile, desktop, tooling, animation, and creative coding
+- I like turning ideas into actual working projects
 
-I enjoy experimenting with technology and turning ideas into working products — from websites and mobile apps to CLI tools and development utilities.
-
-> **Projects speak louder than posts.**
-
-- Building web and mobile products with React, Flutter, and Tauri.
-- Exploring backend architecture, databases, animation, and 3D web experiences.
-- Building my own developer tools under the **GWD** ecosystem.
-- Learning by building real projects instead of only following tutorials.
+> **Projects speak louder than profiles.**
 
 ---
 
-# Tech Stack
+## Tech Stack
 
-<div align="center">
+### Frontend
 
-## Frontend & Web
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,astro,nextjs,tailwind,sass,bootstrap,jquery&theme=light" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,astro,nextjs,tailwind,sass,bootstrap,jquery&theme=light" />
+### Backend
 
-<br /><br />
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,django,java,spring,cs,dotnet,go,rust&theme=light" />
+</p>
 
-## Backend
+### Database & Backend Services
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,django,java,spring,cs,dotnet,go,rust&theme=light" />
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis,firebase,supabase,prisma&theme=light" />
+</p>
 
-<br /><br />
+### Mobile & Desktop
 
-## Database & Backend Services
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin,tauri,electron&theme=light" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis,firebase,supabase,prisma&theme=light" />
+### Creative & 3D
 
-<br /><br />
+<p>
+  <img src="https://skillicons.dev/icons?i=threejs,blender,unity,arduino,raspberrypi&theme=light" />
+</p>
 
-## Mobile & Desktop
+### Tools & DevOps
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,android,kotlin,tauri,electron&theme=light" />
-
-<br /><br />
-
-## Creative Development
-
-<img src="https://skillicons.dev/icons?i=threejs,blender,unity,cs&theme=light" />
-
-<br /><br />
-
-## Dev Tools & Workflow
-
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,npm,powershell,vscode,figma&theme=light" />
-
-<br /><br />
-
-## Hardware & Embedded
-
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=light" />
-
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,npm,powershell,vscode,figma&theme=light" />
+</p>
 
 ---
 
-# Animation & Interaction
+## Animation & Interaction
 
-<div align="center">
+I enjoy building interfaces that feel responsive and alive without sacrificing usability.
 
-<img src="https://skillicons.dev/icons?i=gsap,react,threejs&theme=light" />
+<p>
+  <img src="https://skillicons.dev/icons?i=gsap&theme=light" />
+</p>
 
-<br />
+Also working with:
 
-**GSAP · Lenis · Framer Motion · Three.js · Web Animations**
-
-</div>
-
-I enjoy building interfaces that feel responsive and alive without sacrificing performance.
+- GSAP
+- Lenis
+- Framer Motion
+- Three.js
+- Custom CSS animations
+- WebGL experiments
+- Interactive UI systems
 
 ---
 
-# What I Build
+## What I Build
 
-WEB DEVELOPMENT
-├── Interactive websites
-├── SaaS interfaces
-├── E-commerce
-├── Admin dashboards
-├── Landing pages
-└── Web applications
+```text
+Web Applications
+├── Landing Pages
+├── SaaS Interfaces
+├── Dashboards
+├── E-Commerce
+└── Interactive Websites
 
-MOBILE DEVELOPMENT
-├── Flutter applications
-├── Android applications
-├── Cross-platform products
-└── Native Android tooling
+Developer Tools
+├── CLIs
+├── Framework Experiments
+├── Preview Tools
+├── Animation Libraries
+└── Development Utilities
 
-BACKEND
-├── REST APIs
-├── Authentication
-├── Database systems
-├── Realtime applications
-├── GraphQL
-└── Server architecture
+Apps
+├── Android
+├── Desktop
+├── Flutter
+└── Tauri
 
-DEVELOPER TOOLS
-├── CLI applications
-├── Development utilities
-├── Project preview systems
-├── Libraries
-├── Framework experiments
-└── GWD ecosystem
+Creative Projects
+├── 3D
+├── Motion
+├── WebGL
+└── Experimental Interfaces
+```
 
-CREATIVE TECHNOLOGY
-├── Three.js
-├── 3D interfaces
-├── Web animations
-├── Interactive experiences
-└── Experimental interfaces
-GWD Ecosystem
+---
 
-One of the things I'm currently building is GWD — a growing ecosystem of developer tools and digital products.
+## GWD Ecosystem
 
+**GWD** is my personal development ecosystem for building software, tools, and experiments.
+
+```text
 GWD
 │
 ├── GWD Studio
-│   └── Digital studio for websites & software
+│   └── Web development & client projects
 │
 ├── GWD CLI
-│   └── Flutter development & preview tooling
+│   └── Developer workflow & CLI tools
 │
 ├── GWDView
-│   └── Local project preview system
+│   └── Local project preview & device workflow
 │
 ├── GWD Motion
 │   └── Animation & interaction library
 │
 ├── GWD Playground
-│   └── Browser-based development playground
+│   └── Experiments & prototypes
 │
 └── GWD Tools
-    └── Experimental developer utilities
+    └── Small utilities for developers
+```
 
+> **One ecosystem. Many experiments.**
 
-Selected Projects
-Project	Description	Technologies
-GWD Studio	Digital studio for building websites and software products.	React · Vite · GSAP
-GWD CLI	CLI tooling for running and previewing Flutter projects.	Node.js · npm · Flutter · ADB
-GWDView	Local development preview system for viewing projects from another device.	React · Vite · Tauri
-GWD Motion	Animation library for modern interactive interfaces.	JavaScript · GSAP · Lenis
-GWD Playground	Browser-based playground for experimenting with web development.	React · Vite · JavaScript
-Mishbah	Modern Quran application for web and Android.	React · Tauri · Android
-YouAndMe	Interactive personal web experience.	React · Puter.js · GSAP
-Portfolio	Personal portfolio focused on interactive web experiences.	React · Three.js · GSAP · Lenis
-Currently Exploring
-React
-TypeScript
-JavaScript
-Three.js
-GSAP
-Lenis
-Flutter
-Dart
-Tauri
-Node.js
-PHP
-Laravel
-Astro
-Sass
-Firebase
-Supabase
-PostgreSQL
-MongoDB
-Docker
-Android Development
+---
+
+## Selected Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **GWD Studio** | Development studio for building websites and digital products. | React · Vite · GSAP |
+| **GWD CLI** | CLI tooling for development workflows and project previews. | Node.js · Flutter · ADB |
+| **GWDView** | Local development preview system for testing projects across devices. | React · Vite · Tauri |
+| **GWD Motion** | Animation and interaction toolkit for modern web interfaces. | JavaScript · GSAP |
+| **Mishbah** | Modern Quran application for web and Android. | React · Tauri · Android |
+| **YouAndMe** | Personal interactive web experience. | React · JavaScript |
+| **Portfolio** | Personal portfolio and project showcase. | React · Vite · GSAP |
+
+---
+
+## Currently Exploring
+
+```text
+Advanced Frontend Architecture
 Developer Tooling
-Web Animation
-3D Web
-Development Philosophy
+CLI Development
+Animation Systems
+Web Performance
+Flutter
+Tauri
+Android Development
+WebGL
+Three.js
+Rust
+Go
+AI-assisted Development
+```
+
+---
+
+## Development Philosophy
+
+I prefer building things instead of only talking about them.
+
+```text
+Idea
+  ↓
+Prototype
+  ↓
 Build
   ↓
-Experiment
-  ↓
-Break Things
-  ↓
-Understand Why
+Test
   ↓
 Improve
   ↓
 Ship
+```
 
-I prefer learning through real projects, experimenting with new technologies, and building tools that solve problems I personally encounter.
+My goal is to keep learning by creating real software and turning experiments into useful tools.
 
-GitHub Activity
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Galvinal-227&bg_color=ffffff&color=111111&line=111111&point=111111&area=true&hide_border=true" width="95%" /> <br /> <img src="https://github-readme-stats.vercel.app/api?username=Galvinal-227&show_icons=true&hide_border=true&bg_color=ffffff&title_color=111111&text_color=333333&icon_color=111111&rank_icon=github&include_all_commits=true&count_private=true" height="165" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Galvinal-227&theme=default&background=ffffff&border=ffffff&ring=111111&fire=111111&currStreakNum=111111&sideNums=333333&sideLabels=666666&dates=666666" height="165" />
+---
 
-<br /><br />
+## GitHub Activity
 
-<img src="https://raw.githubusercontent.com/Galvinal-227/Galvinal-227/output/github-contribution-grid-snake.svg" width="95%" /> </div>
-Experience & Learning
-Software Development — SMKN 2 Nganjuk · PPLG
-Web Development — React · JavaScript · TypeScript · HTML · CSS
-Backend Development — Node.js · PHP · Laravel · REST APIs
-Database — PostgreSQL · MySQL · MongoDB · SQLite
-Mobile Development — Flutter · Dart · Android
-Creative Development — Three.js · GSAP · Lenis · Blender
-Developer Tooling — Node.js CLI · Tauri · ADB · Flutter Web
-Cloud & Services — Firebase · Supabase · Vercel
-UI/UX — Figma · Interactive Interface Design
-Let's Connect
 <div align="center">
 
-I'm always interested in building, experimenting, and turning ideas into working software.
+<img src="https://github-readme-stats.vercel.app/api?username=Galvinal-227&show_icons=true&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
 
-<br /> <a href="https://galvinalfito.my.id"> <img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> <a href="https://github.com/Galvinal-227"> <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/galvin-alfito-506494390"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Galvinal-227&layout=compact&hide_border=true" height="170" alt="Top Languages" />
 
-<br /><br />
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=Galvinal-227&style=flat-square&color=111111&labelColor=ffffff&label=PROFILE+VIEWS" /> </div> <br /> <img src="https://capsule-render.vercel.app/api?type=waving&color=111111&height=100&section=footer" width="100%" />
+---
+
+## Experience & Learning
+
+My development journey is centered around learning through projects.
+
+From building simple websites to experimenting with frameworks, CLIs, mobile applications, animation systems, and developer tools, every project is part of the learning process.
+
+```text
+Learn
+  ↓
+Build
+  ↓
+Break
+  ↓
+Debug
+  ↓
+Understand
+  ↓
+Build Better
+```
+
+---
+
+## Let's Connect
+
+If you're interested in development, creative coding, or building something together:
+
+- Portfolio: **galvinalfito.my.id**
+- LinkedIn: **Galvin Alfito**
+- Email: **galvinalfito@gmail.com**
+- GitHub: **Galvinal-227**
+
+---
+
+<div align="center">
+
+### Build. Experiment. Ship.
+
+Made by **Galvin Alfito Dinova**
+
+</div>
