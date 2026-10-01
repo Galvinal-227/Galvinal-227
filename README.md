@@ -11,7 +11,7 @@
 <a href="www.linkedin.com/in/galvin-alfito-506494390">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-FAFAFA?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=FAFAFA&color=E5E5E5" alt="LinkedIn" />
 </a>
-<a href="mailto:your.email@example.com">
+<a href="galvinalfito@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact_Me-FAFAFA?style=for-the-badge&logo=gmail&logoColor=black&labelColor=FAFAFA&color=E5E5E5" alt="Email" />
 </a>
 
