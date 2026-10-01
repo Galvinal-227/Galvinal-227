@@ -8,7 +8,7 @@
 <a href="https://galvinalfito.my.id">
   <img src="https://img.shields.io/badge/Portfolio-Visit_Website-FAFAFA?style=for-the-badge&logo=vercel&logoColor=black&labelColor=FAFAFA&color=E5E5E5" alt="Portfolio" />
 </a>
-<a href="https://linkedin.com/in/galvinalfito">
+<a href="www.linkedin.com/in/galvin-alfito-506494390">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-FAFAFA?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=FAFAFA&color=E5E5E5" alt="LinkedIn" />
 </a>
 <a href="mailto:your.email@example.com">
